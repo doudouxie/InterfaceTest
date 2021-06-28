@@ -1,0 +1,5 @@
+caseNum,apiType,caseName,casePriority,url,methods,parameter,expectValue
+case001,HTTP,get xiaoming,1,/get,GET,user=xiaoming,xiaoming
+case002,HTTP,post xiaofang,1,/post,POST,user:xiaofang,xiaofang
+case003,HTTP,get xiaoli,1,/get,GET,user=xiaoli,xiaoli
+case004,HTTP,post xiaowang,1,/post,POST,user:xiaowang,xiaowang
